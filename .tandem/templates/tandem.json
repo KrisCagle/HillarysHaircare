@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "config": {
+    "understandingChecks": true
+  },
+  "docs": [
+    {
+      "path": "dev-docs/PRD.md",
+      "scope": "general",
+      "purpose": "Product requirements, user stories, tech stack decisions, project scope",
+      "tags": ["prd", "requirements", "scope", "stack"]
+    },
+    {
+      "path": "dev-docs/ARCHITECTURE.md",
+      "scope": "general",
+      "purpose": "System design, component breakdown, data model, API design, project conventions",
+      "tags": ["architecture", "system-design", "conventions", "data-model"]
+    },
+    {
+      "path": "dev-docs/ROADMAP.md",
+      "scope": "general",
+      "purpose": "Ordered implementation steps with checkboxes and acceptance criteria",
+      "tags": ["roadmap", "planning"]
+    }
+  ]
+}
